@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm **Udaykumar Dhokia**, a passionate **Software Developer** and **Tech Enthusiast** dedicated to building impactful and innovative applications. With a strong foundation in **Flutter**, **Firebase**, and **UI/UX Design**, I focus on creating seamless, user-centric experiences. I’m continually exploring emerging technologies and enhancing my skills to bring high-quality, efficient solutions to life.
 
-<!--
-**udaykumar-dhokia/udaykumar-dhokia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=udaykumar-dhokia&color=blue)
 
-Here are some ideas to get you started:
+### 🔧 **Technical Expertise**
+- **Languages:** Dart, JavaScript, Python
+- **Frameworks & Tools:** Flutter, Firebase, REST APIs, Git
+- **Interests:** App Development, Machine Learning, Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 **What I'm Working On**
+Currently working on [project examples or areas you're interested in, e.g., "a course management system," "an alumni portal for a government engineering college," or "a music web app with integrated APIs"].
+
+### 🌐 **Connect with Me**
+- **LinkedIn:** [linkedin.com/in/udaykumar-dhokia](https://www.linkedin.com/in/udaykumar-dhokia-57938a210)
