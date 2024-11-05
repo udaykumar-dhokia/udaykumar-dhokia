@@ -1,4 +1,6 @@
-👋 Hi, I'm **Udaykumar Dhokia**, a passionate **Software Developer** and **Tech Enthusiast** dedicated to building impactful and innovative applications. With a strong foundation in **Flutter**, **Firebase**, and **UI/UX Design**, I focus on creating seamless, user-centric experiences. I’m continually exploring emerging technologies and enhancing my skills to bring high-quality, efficient solutions to life.
+<p align="center" style="font-size: 24px;"><strong>👋 Hi, I'm <u>Udaykumar Dhokia</u></strong></p>
+
+Passionate **Software Developer** and **Tech Enthusiast** dedicated to building impactful and innovative applications. With a strong foundation in **Flutter**, **Firebase**, and **UI/UX Design**, I focus on creating seamless, user-centric experiences. I’m continually exploring emerging technologies and enhancing my skills to bring high-quality, efficient solutions to life.
 
 ### 🔧 **Technical Expertise**
 - **Languages:** Dart, JavaScript, Python
@@ -43,9 +45,6 @@
 ### 💬 Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🌐 **Connect with Me**
-- **LinkedIn:** [linkedin.com/in/udaykumar-dhokia](https://www.linkedin.com/in/udaykumar-dhokia-57938a210)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=udaykumar-dhokia&color=blue)
 
-Show some 💛 by starring some of the repositories!
+<p align="center"><strong>Show some 💛 by starring some of the repositories!</strong></p>
