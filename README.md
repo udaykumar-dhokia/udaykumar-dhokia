@@ -4,8 +4,8 @@ Passionate **Software Developer** and **Tech Enthusiast** dedicated to building 
 
 ### 🔧 **Technical Expertise**
 - **Languages:** Dart, Python
-- **Frameworks & Tools:** Flutter, Firebase, REST APIs, Git
-- **Interests:** App Development, Machine Learning, Networking
+- **Frameworks & Tools:** Flutter, Firebase, React & Vite,REST APIs, Git
+- **Interests:** App Development & Web Development
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaykumar-dhokia)
