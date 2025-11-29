@@ -10,23 +10,6 @@ I love solving real-world problems with clean and efficient code while constantl
 
 ---
 
-### 🎓 **Education**
-- **B.Tech in Computer Engineering**, IITRAM, Ahmedabad  
-  *CPI: 8.97 • 2022 – 2026*
-- **12th Grade (Science – HSC)**, Kendriya Vidyalaya, Porbandar  
-  *Percentage: 93.2% • 2022*
-
----
-
-### 💼 **Experience**
-| Role | Organization | Duration | Location |
-|------|--------------|----------|----------|
-| Summer Intern | Ministry of Electronics & IT | Jun 2025 – Aug 2025 | New Delhi |
-| Python Developer | Apollo Hospitals | Jun 2024 – Aug 2024 | Ahmedabad |
-| Website Developer | IITRAM | Feb 2023 – Jul 2023 | Ahmedabad |
-
----
-
 ### 🛠️ **Tech Stack**
 **Languages:** Python, C++, JavaScript, TypeScript, SQL, Dart  
 **Frameworks & Tools:** React, Node.js, Express, Flutter, Firebase, Redux, REST APIs  
